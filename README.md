@@ -26,13 +26,13 @@ deep_learning_image_classification/
 ├── evaluate.py          # Model evaluation logic
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
----------------
+
 ⚙️ Installation
 --------
 Install dependencies:
 
 pip install -r requirements.txt
----------------
+
 
 🚀 Usage
 ------------
